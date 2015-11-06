@@ -1,0 +1,3 @@
+include *.md
+recursive-include DFCIManager *.cfg
+recursive-include DFCIManager *.lnk
